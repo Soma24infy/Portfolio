@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Soma Mukherjee </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/soma24mukherjee/">LinkedIn</a> |
+  <a href="https://github.com/Soma24infy">GitHub</a>
+  
+  <br>   
+ Software developer with strong experience in designing, developing and maintaining 
+ enterprise grade applications using Microsoft ASP.NET technologies. 
+ Eager to pivot into the data science field, harnessing insights for innovation. 
+ Seeking collaborative opportunities to grow within the data-driven community.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
